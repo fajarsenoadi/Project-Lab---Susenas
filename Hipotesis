@@ -1,0 +1,31 @@
+HIPOTESIS / ANALISIS
+1.	Hubungan Jumlah Anak dengan Pengeluaran secara Nasional (Opsi ke 2 Pendapatan) -> 
+a.	Hipotesis:
+i.	Pengeluaran lebih tinggi =  Jumlah Anak lebih sedikit
+b.	Data:
+i.	Jumlah Anak per Keluarga
+ii.	Jumlah Pengeluaran per Keluarga
+c.	Output:
+i.	Scatter Plot / Bar / Box Plot -> Hubungannya
+2.	Hubungan Jumlah Anak dengan Daerah Tempat Tinggal (Kota dan Desa) secara Nasional -> 
+a.	Hipotesis:
+i.	Orang Kota =  Jumlah Anak lebih sedikit
+b.	Data:
+i.	Jumlah Anak per Keluarga di Tiap Daerah
+c.	Output:
+i.	Bar / Box Plot -> Hubungannya
+3.	Hubungan Jumlah Anak dengan Pendidikan Kepala Rumah Tangga secara Nasional -> 
+i.	Pendidikan lebih tinggi =  Jumlah Anak lebih sedikit
+b.	Data:
+i.	Jumlah Anak per Keluarga di Tiap Tingkat Pendidikan
+c.	Output:
+i.	Bar / Box Plot -> Hubungannya
+4.	Hubungan Jumlah Anak dengan Provinsi
+a.	Hipotesis:
+i.	IDEM 2
+b.	Data:
+i.	Jumlah Anak per Provinsi
+c.	Output:
+i.	Heatmap Peta
+5.	Hubungan Provinsi dengan Pendidikan, Pendapatan/Pengeluaran, Jenis Desa/Kota
+
